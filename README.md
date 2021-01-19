@@ -2,7 +2,7 @@
 ## By Ton Pham
 
 ### Activity 0101:  Adapted from The Pragmatic Programmer
-I was given an exercise that test an user input year is a leap year or not. So I have:
+I was given an exercise that test an user input year is a leap year or not. So I have
        <boolean x = (year % 4) == 0;>
        <boolean y = (year % 100) != 0;>
        <boolean z = ((year % 100 == 0) && (year % 400 == 0));>
