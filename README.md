@@ -22,9 +22,30 @@ int year = in.nextInt();
 ```
 I'd better leave a space between line 1 and line 2, because they are two different parts.
 
-### Activity 0301
+### Activity 0301:
 When using youtube I find it has some differences between the app and its web version, I tested it on Android OS 
 
 <img src="images/screenshot_1.jpg" width=400> <img src="images/screenshot_2.jpg" width=400>
+
+As you can see, on the top bar, in the web version there is no button to connect to the TV and a notification button. Right below, we see a clear difference, while on the web version we see some search suggestion, and on the app side we see two buttons, the Original, which is used to access some videos recomended by youtube, and Music app is used to switch to another music player app of youtube. There is not much difference when both sides show random videos with topics according to what we often watch and Top news. In the lower part of both sides have a navigation bar, but their items are different. The application has an additional button used to upload videos. The next difference is that the web version has a trending button while the app side is explore, but strangely when I click on them they have the same function, after researching they are used to watch the videos that are on the top trending, which are videos that have had a high number of views for a short period of time. Next, when I scroll down in the web version, then stop, this navigation bar tends to disappear, and reappears when I continue to scroll down. This behavior does not appear in their application. There is not much difference when watching a video on both platforms, except for the comment section, while the comment on the web version appears at the end, in the application version it is in the middle. 
+
+<img src="images/screenshot_3.jpg" width=400> <img src="images/screenshot_4.jpg" width=400>
+
+### Activity 0302:
+
+### Activity 0303:
+
+I will use assignment 1 for this activity, and after looking back, I think my code is quite DRY. I think in order to be able to write DRY code, you have to understand what the problem you want to solve, and you have to know the logic behind it, and it must also be readability. 
+
+
+
+
+
+
+
+
+
+
+
 
 
