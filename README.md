@@ -32,6 +32,11 @@ As you can see, on the top bar, in the web version there is no button to connect
 <img src="images/screenshot_3.jpg" width=400> <img src="images/screenshot_4.jpg" width=400>
 
 ### Activity 0302:
+I have read about Device Compatibility, a pretty cool topic that every designer must solve is Compatibility.
+
+Android apps have to run on many different types of devices, so to optimize we have to work hard to find solutions by specifying your app's feature requirements and control which types of devices can install your app from Google Play Store. There are two types of compatibility: device compatibility and app compatibility. To achieve the largest user-base possible for your app, you can restrict your app's availability to devices through Google Play Store based on the following device characteristics: Device features, Platform version, Screen configuration. These three factors are used to control your app's availability to devices. Also, you can control your app's availability for business reasons.
+
+This article explains Compatibility in great detail. First of all, the article explains in detail the word "compatibility". Then it lists ways to do this for various purposes and plans. On the left hand side there is a menu row where we can read other articles, and on the right hand side there is a list of each items in the article we are reading. This is a common layout for websites like this, I find this is often used by wiki, or any e-newspaper websites. 
 
 ### Activity 0303:
 
