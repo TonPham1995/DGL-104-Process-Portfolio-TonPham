@@ -25,6 +25,6 @@ I'd better leave a space between line 1 and line 2, because they are two differe
 ### Activity 0301
 When using youtube I find it has some differences between the app and its web version, I tested it on Android OS 
 
-![](images/screenshot_1.jpg) ![](images/screenshot_2.jpg)
+<img src="images/screenshot_1.jpg" width=300> <img src="images/screenshot_2.jpg" width=300>
 
 
