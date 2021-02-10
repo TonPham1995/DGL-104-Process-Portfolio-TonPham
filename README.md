@@ -39,8 +39,15 @@ Android apps have to run on many different types of devices, so to optimize we h
 This article explains Compatibility in great detail. First of all, the article explains in detail the word "compatibility". Then it lists ways to do this for various purposes and plans. On the left hand side there is a menu row where we can read other articles, and on the right hand side there is a list of each items in the article we are reading. This is a common layout for websites like this, I find this is often used by wiki, or any e-newspaper websites. 
 
 ### Activity 0303:
-
 I will use assignment 1 for this activity, and after looking back, I think my code is quite DRY. I think in order to be able to write DRY code, you have to understand what the problem you want to solve, and you have to know the logic behind it, and it must also be readability. 
+
+### Activity 0401:
+<img src="images/Airbnb Pattern.png" width=400>
+
+I chose the Airbnb pattern, and I think One-Handed Usage and Intelligence are two important factors that programmers must constantly use on this app. This is an app for travelers and businessman. It can be seen that the customers of this application are those who will definitely have to carry many things such as: luggages, documents, tools, etc, and it seems like always using two hands when using apps is very difficult for them. And as shown above in the map search of surrounding places, Airbnb did a relatively good job showing location information right below the screen, where the thumb can navigate easily. Secondly, It's a relatively versatile app that not only shows places to stay, but also shows nearby places to entertain or dining, I tried it out, when you choose a place to stay, and when I click in the map section, the application will self-understand to show places near it, it does not need you to enter the address. This is called Intelligence, the app collects information by itself and uses it to make the application more convenient.
+
+### Activity 0402:
+I think Split2 is more orthogonal - it only splits a line into fields. It allows the source of the lines to be changed without needing to alter the field splitting class and allows it to be used in other contexts. In MVC orthogonal segments are used to create segments that are perpendicular to each other.
 
 
 
