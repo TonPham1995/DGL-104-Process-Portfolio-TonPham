@@ -97,6 +97,20 @@ I chose the Airbnb pattern, and I think One-Handed Usage and Intelligence are tw
 I think Split2 is more orthogonal - it only splits a line into fields. It allows the source of the lines to be changed without needing to alter the field splitting class and allows it to be used in other contexts. In MVC orthogonal segments are used to create segments that are perpendicular to each other.
 
 ### Activity 0501:
+MVC: This model consists of 3 main components: Model - View - Controller. MVC is a popular software architecture model today. Each component will undertake a separate task and operate independently from the others. Controller is a unit that has the function of recording and navigating the requests that the user makes at the View. After receiving, Controller will process the data through the Model and finally return the result and response at View. 
+
+MVP: MVP is a programming architecture model similar to MVC. MVP has many points inherited from MVC but Controller is replaced by Presenter which acts as the middle-man. This unit will receive the user input through the View, process the data with the help of the Model and finally return the result to the View. Presenter and View communicate with each other through interfaces. 
+
+MVVM: MVVM (Model - View - ViewModel) is a model that supports two-way data binding between View and ViewModel which is the intermediate layer between the View and the Model and serves as an alternative to Controller in MVC model. 
+
+We can see that the Model and View of all 3 relatively do and act the same,
+while Controller, Presenter, and ViewModel are different. 
+
+I think we should use MVP if we can't bind data via DataContext (eg Windows Forms).
+
+MVVM model should be used when it is possible to bind data via DataContext (eg: WPF, javascript using Knockout).
+
+The MVC should be used when the connection between the View and the rest of the application is not always available (eg web API). At that time, we cannot use MVP or MVVM effectively and it is imperative to choose the MVC pattern. 
 
 
 ### Activity 0503:
