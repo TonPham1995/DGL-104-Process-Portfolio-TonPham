@@ -22,6 +22,53 @@ int year = in.nextInt();
 ```
 I'd better leave a space between line 1 and line 2, because they are two different parts.
 
+### Activity 0201:
+Youtube is a famous application, and they are expanding their model to attract more customers every day, initially Youtube is simply an application that helps people find and share videos. However, more and more things are being added to make the user base bigger and bigger. With the addition of comment section as well as the share, like, dislike buttons below every videos, Youtube has become a true social app. And since Google acquired Youtube, they have turned Youtube into an extremely good video search engine. You just need to type in any lyrics, Youtube can help you find the song, or even you insert the wrong lyrics, Youtube can also suggest many songs that you can feel satisfied. Nowadays, with more and more mobile users, Youtube has really done a great job, when you rarely see a person using a mobile phone without a Youtube application. In short, Youtube's user base is extremely diverse, if you are someone who likes to watch videos, and likes to comment and reviews, you can also be a YouTube customer, if you are a music lover and constantly searching for new songs, Youtube is also ready to respond, if you are just someone who likes to share what you do for people around, Youtube is still something that can satisfy you. I ike to watch videos and sing karaoke, and obviously Youtube responds well to my request.
+
+### Activity 0202:
+I will use Assignment 1 for this activity.
+```java
+    private String customerNum;
+    private String customerName;
+    private String customerAddress;
+```
+
+```java
+    private String custNum;
+    private String custName;
+    private String custAddress;
+```
+I was puzzled between the two above, and I decided to choose the first one, I wanted it to be more clear, but as a professional coder I thought I would take the second, because obviously the data capacity is something very important, and with short, concise code will help a lot more.
+```java
+ public void setCustomerNum(String num){
+       model.setNum(num);      
+    }
+
+    public String getCustomerNum(){
+       return model.getNum();       
+    }
+
+    public void setCustomerName(String name){
+       model.setName(name);      
+    }
+
+    public String getCustomerName(){
+       return model.getName();     
+    }
+
+    public void setCustomerAddress(String address){
+           model.setAddress(address);      
+    }
+
+        public String getCustomerAddress(){
+           return model.getAddress();       
+    }
+    public void updateView(){                
+       view.printCustomerDetails(model.getNum(), model.getName(), model.getAddress());
+    }
+```
+At this point I decided to go short, I initially wanted to keep customerNum, customerName, and customerAddress, but for the end I chose num, name, and address. I think I clearly showed the full variables above everyone still knows what it is.
+
 ### Activity 0301:
 When using youtube I find it has some differences between the app and its web version, I tested it on Android OS 
 
@@ -48,6 +95,9 @@ I chose the Airbnb pattern, and I think One-Handed Usage and Intelligence are tw
 
 ### Activity 0402:
 I think Split2 is more orthogonal - it only splits a line into fields. It allows the source of the lines to be changed without needing to alter the field splitting class and allows it to be used in other contexts. In MVC orthogonal segments are used to create segments that are perpendicular to each other.
+
+### Activity 0501:
+
 
 
 
