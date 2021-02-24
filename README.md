@@ -99,6 +99,9 @@ I think Split2 is more orthogonal - it only splits a line into fields. It allows
 ### Activity 0501:
 
 
+### Activity 0503:
+<img src="images/Problem.jpg" width=400> <img src="images/Problem2.jpg" width=400>
+
 
 
 
