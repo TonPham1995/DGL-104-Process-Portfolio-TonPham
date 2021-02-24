@@ -100,7 +100,8 @@ I think Split2 is more orthogonal - it only splits a line into fields. It allows
 
 
 ### Activity 0503:
-<img src="images/Problem.png" width=400> <img src="images/Problem2.png" width=400>
+<img src="images/Problem.png">
+<img src="images/Problem2.png">
 
 
 
