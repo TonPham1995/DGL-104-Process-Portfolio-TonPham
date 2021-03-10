@@ -117,6 +117,8 @@ The MVC should be used when the connection between the View and the rest of the 
 <img src="images/Problem.png">
 <img src="images/Problem2.png">
 
+### Activity 0701:
+
 
 
 
