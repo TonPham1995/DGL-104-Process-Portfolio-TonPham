@@ -117,11 +117,20 @@ The MVC should be used when the connection between the View and the rest of the 
 <img src="images/Problem.png">
 <img src="images/Problem2.png">
 
-### Activity 0701:
+### Activity 0801:
+MVI stands for Model-View-Intent. MVI is one of the newest architectural patterns for Android. The MVI model works very differently from the MVP, MVVP models ...
+Its ingredients include:
+
+Model represents a state:  Unlike other patterns, In MVI, Model represents the state of the user interface.
 
 
+View (User Interface): Same as MVP model.
 
+Intent: is the behavior of an user or itselft that alters a state of an application.
 
+### Activity 0803:
+<img src="images/Problem3.png">
+<img src="images/Problem4.png">
 
 
 
