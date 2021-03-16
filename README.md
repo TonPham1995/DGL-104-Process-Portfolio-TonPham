@@ -138,7 +138,19 @@ Facebook:
 - Offline: When I start the app when there is no internet, there is not much difference, it is still the facebook logo, but the strange thing is that I can still log into the account I logged in before, facebook with somehow still remembers this is my phone, and it still allows me to login even though no network. But there's a big difference that I see when I surf the Facebook feed when I'm offline. If you log out of your account, and then turn off the Internet, even though you can re-access your account, you will see nothing in the newsfeed except the words No Internet Connection. But if you just turn off the internet and restart the application, you can still see the old feeds that you have read before, but some posts won't show the images. 
 
 Youtube:
-- Online: 
+- Online: When I start Youtube, there will be a Youtube logo in the middle on a gray or white background, depending on whether you set the mode to day, night, or auto. Then, a loading screen with a rotating circle, but at this time above the screen, the left corner will be the Youtube logo, the right corner will be your account, notifications, search symbols and the button feature that helps you connect to the TV. And all this was done in less than a second. Since this is an app that requires no account registration, there is no difference between whether you have an account or not.
+- Offline: When offline mode is turned on, the Youtube logo remains on a white or gray background, however there is no loading screen with a rotating circle. The app then goes directly to the Library section, where the videos you downloaded if you have a premium subscription, and if you don't have a premium subscription, YouTube won't display much but the words Connect to the Internet, and the menus on the navigation bar. 
+
+### Activity 0903:
+In the debugging steps, the Understand the Location and Cause of the Bug step is the most used, because all the remaining steps are really the steps that I am as a student not qualified to take yet. However in this step, it is also broken down into 4 different parts including Study the data, Hypothesize, Experiment, and Repeat. In which, using Study the data, we have been practiced many times, but the results are not really much, because we have not really approached in depth, and continuously to be able to form the habit of reviewing data. All errors can be detected in many ways, it can be discovered from the users, or through the maintenance process, and it is not easy to know where they are. especially if the error is reported by the user, we have to reproduce the errors and fix it.
+
+
+
+
+
+
+
+
 
 
 
