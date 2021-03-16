@@ -132,6 +132,21 @@ Intent: is the behavior of an user or itselft that alters a state of an applicat
 <img src="images/Problem3.png">
 <img src="images/Problem4.png">
 
+### Activity 0901:
+Facebook:
+- Online: When I enter the application, the facebook logo will show in the middle on a white background, below there are apps owned by facebook such as instagram, whapsapp etc. All of this shows up very quickly and I think it is less than a second before entering the login section. In the login section, facebook displays the accounts that you have logged into before, you must click on the box you want to log in with another account? then continue to the main login.
+- Offline: When I start the app when there is no internet, there is not much difference, it is still the facebook logo, but the strange thing is that I can still log into the account I logged in before, facebook with somehow still remembers this is my phone, and it still allows me to login even though no network. But there's a big difference that I see when I surf the Facebook feed when I'm offline. If you log out of your account, and then turn off the Internet, even though you can re-access your account, you will see nothing in the newsfeed except the words No Internet Connection. But if you just turn off the internet and restart the application, you can still see the old feeds that you have read before, but some posts won't show the images. 
+
+Youtube:
+- Online: 
+
+
+
+
+
+
+
+
 
 
 
