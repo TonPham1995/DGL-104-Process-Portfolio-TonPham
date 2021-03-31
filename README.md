@@ -145,6 +145,7 @@ Youtube:
 In the debugging steps, the Understand the Location and Cause of the Bug step is the most used, because all the remaining steps are really the steps that I am as a student not qualified to take yet. However in this step, it is also broken down into 4 different parts including Study the data, Hypothesize, Experiment, and Repeat. In which, using Study the data, we have been practiced many times, but the results are not really much, because we have not really approached in depth, and continuously to be able to form the habit of reviewing data. All errors can be detected in many ways, it can be discovered from the users, or through the maintenance process, and it is not easy to know where they are. especially if the error is reported by the user, we have to reproduce the errors and fix it.
 
 ### Activity 1001:
+### Activity 1101:
 
 
 
