@@ -160,7 +160,40 @@ Differences
 
 There are not many negative aspects of testing or debugging, they are all essential processes to make a software or website work better.
 
-### Activity 1101:
+### Activity 1102:
+VSCode is a free code editor for Windows, Linux and macOS, and it is developed by Microsoft. It is considered a perfect combination between IDE and Code Editor
+
+- Supports many programming languages
+Visual Studio Code supports many programming languages ​​such as C / C ++, C #, F #, Visual Basic, HTML, CSS, JavaScript, ... So it is easy to detect and notify if the program has an error.
+
+- Multi-platform support
+Conventional coders are used only for either Windows or Linux or Mac Systems. But Visual Studio Code can work well on all three platforms above.
+
+- Provide a repository of extensions
+In case the programmer wants to use a programming language that is not among the languages ​​that Visual Studio supports, they can download the extension. This will still not reduce the performance of the software, because the extension works as a standalone program.
+
+- Safe storage
+Along with the development of programming is the need for secure storage. With Visual Studio Code, users can rest assured because it easily connects to Git or any existing repository.
+
+- Web support
+Visual Studio Code supports many web applications. In addition, it also has an editor and website design.
+
+- Hierarchical data storage
+Most archives of the code are located in similar folders. In addition, Visual Studio Code provides folders for some particularly important files.
+
+- Code support
+Some code can be changed slightly for the convenience of the user. Visual Studio Code will suggest to the developer alternative options if any.
+
+- Terminal support
+Visual Studio Code has a built-in terminal, eliminating the need to switch between two monitors or go back to the original directory when performing operations.
+
+- Multitasking screen
+Visual Studio Code users can open multiple files and folders at the same time - although they are not related at all. 
+
+- Git support
+Visual Studio Code supports dragging or copying code directly from GitHub. This code can then be changed and saved on the software. 
+
+The feature that I am surprised by is probably the way VSCode works extremely well with GitHub. Every step that we do anything on the VSC is recorded very quickly and with absolutely no delay. GitHub Desktop is a great tool for managing our projects, and it works almost simultaneously with VSC. And recently through this class, I learned how to edit the ReadMe file through VSC code, it feels like what Bootstrap brings to HTML / CSS, very convenient and interesting.
 
 ### Activity 1103:
 <img src="images/Problem5.png">
