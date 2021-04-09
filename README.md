@@ -150,10 +150,13 @@ I must say that during the course of 2 years of study, I am exactly a Programmin
 ### Activity 1003:
 Differences
 
-| Debugging   | Testing |
+| Testing   | Debugging |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Performed by testers | It is done by dev or dev team  |
+| Can be done manually or automatically | Can only be done manually |
+| Can be defined before starting testing. Test results can be predicted  | Starting with unknown conditions and it's hard to predict the outcome|
+| Find a programming error | Prove that it was just a small unattended bug  |
+| The purpose is to find the error | The purpose is to find out the cause of an error  |
 
 ### Activity 1101:
 
