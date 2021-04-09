@@ -158,7 +158,13 @@ Differences
 | Find a programming error | Prove that it was just a small unattended bug  |
 | The purpose is to find the error | The purpose is to find out the cause of an error  |
 
+There are not many negative aspects of testing or debugging, they are all essential processes to make a software or website work better.
+
 ### Activity 1101:
+
+### Activity 1103:
+<img src="images/Problem5.png">
+<img src="images/Problem6.png">
 
 
 
