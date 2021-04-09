@@ -163,19 +163,19 @@ There are not many negative aspects of testing or debugging, they are all essent
 ### Activity 1102:
 VSCode is a free code editor for Windows, Linux and macOS, and it is developed by Microsoft. It is considered a perfect combination between IDE and Code Editor
 
-- Supports many programming languages
+- Supports many programming languages:
 Visual Studio Code supports many programming languages ​​such as C / C ++, C #, F #, Visual Basic, HTML, CSS, JavaScript, ... So it is easy to detect and notify if the program has an error.
 
-- Multi-platform support
+- Multi-platform support:
 Conventional coders are used only for either Windows or Linux or Mac Systems. But Visual Studio Code can work well on all three platforms above.
 
 - Provide a repository of extensions
 In case the programmer wants to use a programming language that is not among the languages ​​that Visual Studio supports, they can download the extension. This will still not reduce the performance of the software, because the extension works as a standalone program.
 
-- Safe storage
+- Safe storage:
 Along with the development of programming is the need for secure storage. With Visual Studio Code, users can rest assured because it easily connects to Git or any existing repository.
 
-- Web support
+- Web support:
 Visual Studio Code supports many web applications. In addition, it also has an editor and website design.
 
 - Hierarchical data storage
