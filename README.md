@@ -178,19 +178,19 @@ Along with the development of programming is the need for secure storage. With V
 - Web support:
 Visual Studio Code supports many web applications. In addition, it also has an editor and website design.
 
-- Hierarchical data storage
+- Hierarchical data storage:
 Most archives of the code are located in similar folders. In addition, Visual Studio Code provides folders for some particularly important files.
 
-- Code support
+- Code support:
 Some code can be changed slightly for the convenience of the user. Visual Studio Code will suggest to the developer alternative options if any.
 
-- Terminal support
+- Terminal support:
 Visual Studio Code has a built-in terminal, eliminating the need to switch between two monitors or go back to the original directory when performing operations.
 
-- Multitasking screen
+- Multitasking screen:
 Visual Studio Code users can open multiple files and folders at the same time - although they are not related at all. 
 
-- Git support
+- Git support:
 Visual Studio Code supports dragging or copying code directly from GitHub. This code can then be changed and saved on the software. 
 
 The feature that I am surprised by is probably the way VSCode works extremely well with GitHub. Every step that we do anything on the VSC is recorded very quickly and with absolutely no delay. GitHub Desktop is a great tool for managing our projects, and it works almost simultaneously with VSC. And recently through this class, I learned how to edit the ReadMe file through VSC code, it feels like what Bootstrap brings to HTML / CSS, very convenient and interesting.
