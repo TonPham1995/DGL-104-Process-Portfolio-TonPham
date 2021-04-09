@@ -145,6 +145,14 @@ Youtube:
 In the debugging steps, the Understand the Location and Cause of the Bug step is the most used, because all the remaining steps are really the steps that I am as a student not qualified to take yet. However in this step, it is also broken down into 4 different parts including Study the data, Hypothesize, Experiment, and Repeat. In which, using Study the data, we have been practiced many times, but the results are not really much, because we have not really approached in depth, and continuously to be able to form the habit of reviewing data. All errors can be detected in many ways, it can be discovered from the users, or through the maintenance process, and it is not easy to know where they are. especially if the error is reported by the user, we have to reproduce the errors and fix it.
 
 ### Activity 1001:
+I must say that during the course of 2 years of study, I am exactly a Programming by Coincidence person. I remember the most when I first started to learn this industry, and the first programming class was HTML/CSS. At first I came to learn business, so I just talked, thought, cared about what related to business industry. Therefore I don't have any idea of coding. Even though I had been concentrating, it was really hard to consume a ton of that knowledge in such a short time, what I did know on the board was the long, meaningless, consecutive lines of code. The first exercises, I just googled and copied the lines of code on the internet and put it in without almost knowing what its ability, and if it did not work, well, just chose something else. I was the one coding in the dark exactly like what the Programming by Coincidence page has mentioned, and of course I could not explain what I did. My biggest surprise is probably the last thing that article mentions: Don't be a slave to history. I usually skip testing if it works, and if something new doesn't work, then I'll focus on fixing that, rather than looking at them both all over again. After reading this article I see the error can come from anywhere, and for every single line of code we write, we have to know what it is serving for.
+
+### Activity 1003:
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### Activity 1101:
 
 
